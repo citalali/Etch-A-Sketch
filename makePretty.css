@@ -6,3 +6,18 @@ height: 512px;
   grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
 
 }
+
+#buttons {
+height: 50%;
+	width: 492px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+	text-align: center;
+	background-color: pink;
+}
+
+button {
+	color: red;
+	
+}
