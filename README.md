@@ -1,1 +1,1 @@
-# Etch-A-Sketch
+A basic etch a sketch, started: 25.05.22 :)

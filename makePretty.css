@@ -1,0 +1,8 @@
+#mainDiv {
+height: 512px;
+	width: 512px;
+	background-color: black;
+	display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+
+}
